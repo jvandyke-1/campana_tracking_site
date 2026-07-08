@@ -1,0 +1,35 @@
+{
+    "name": "Campana Charge and Usage Tracker",
+    "short_name": "Campana Tracker",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0F172A",
+    "theme_color": "#38BDF8",
+    "description": "Track instrument usage, course tuition, and manage research project funds.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
