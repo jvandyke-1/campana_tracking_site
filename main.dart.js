@@ -48346,7 +48346,7 @@ s=p}for(;;)switch(s){case 0:p=4
 i=t.Pu
 a.a9(i).f.jm(B.UU)
 s=7
-return A.F(A.aKe(A.ez("version.json",0,null),null),$async$zk)
+return A.F(A.aKe(A.ez("version.json?t="+Date.now(),0,null),null),$async$zk)
 case 7:m=c
 if(m.b===200){h=m
 l=B.aj.nH(0,A.aKb(A.aJL(h.e)).eb(0,h.w),null)
