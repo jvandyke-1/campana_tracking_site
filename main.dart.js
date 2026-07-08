@@ -8317,7 +8317,7 @@ Hj:function Hj(a,b,c){var _=this
 _.d=a
 _.y=_.x=_.w=_.r=_.f=_.e=null
 _.z=!1
-_.Q=500
+_.Q=650
 _.as=b
 _.at=c
 _.c=_.a=null},
