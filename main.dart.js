@@ -48365,7 +48365,7 @@ f=A.aP("[\\p{Cc}\\p{Cf}]",!0,!1,!0)
 l=B.c.cb(A.dv(g,f,""))
 k=B.aj.nH(0,l,null)
 j=A.bL(J.bn(k,"version"))
-if(!J.d(j,"0.1.5+1")){if(a.e==null){s=1
+if(!J.d(j,"0.1.6+1")){if(a.e==null){s=1
 break}A.lJ(null,null,!0,null,new A.aui(n,j),a,null,!0,t.z)}else if(h){if(a.e==null){s=1
 break}a.a9(t.g).f.jm(B.UU)}}p=2
 s=6
@@ -48814,7 +48814,7 @@ else if(a==="about"){p=q.b
 o=t.p
 n=A.b([B.QN],o)
 B.b.M(n,A.b([B.UF,A.eY(A.aMO(B.JO,B.a0f,new A.avj(q.a,p),null),null,null)],o))
-A.b7C(B.JI,"\xa9 2024 UCD FCSR\nDeveloped by Jonathan Van Dyke","Campana Charge and Usage Tracker","0.1.5+1",n,p)}return A.L(null,r)}})
+A.b7C(B.JI,"\xa9 2024 UCD FCSR\nDeveloped by Jonathan Van Dyke","Campana Charge and Usage Tracker","0.1.6+1",n,p)}return A.L(null,r)}})
 return A.M($async$$1,r)},
 $S:156}
 A.avi.prototype={
